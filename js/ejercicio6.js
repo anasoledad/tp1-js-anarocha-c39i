@@ -9,4 +9,3 @@ if(numero1>numero2){
 }else{
     document.write('Los números son iguales');
 }
-
