@@ -1,7 +1,5 @@
 //11.- Añadir al ejercicio anterior que nos diga por cuál de los cuatro es divisible (hay que decir todos por los que es divisible)
-
-
-let numeroIngresado = parseInt(prompt("Introduce un número"));
+let numeroIngresado = parseInt(prompt('Introduce un número'));
 let divisores = [];
 
 if(numeroIngresado%2===0 || numeroIngresado%3===0 || numeroIngresado%5===0 || numeroIngresado%7===0){
