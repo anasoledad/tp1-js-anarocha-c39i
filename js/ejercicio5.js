@@ -2,4 +2,4 @@
 let primerNumero = parseInt(prompt('Ingrese un número'));
 let segundoNumero = parseInt(prompt('Ingrese otro número'));
 
-alert('La suma de los dos números es ' + (primerNumero+segundoNumero));
+alert(`${primerNumero} + ${segundoNumero} = ${(primerNumero+segundoNumero)}`);
